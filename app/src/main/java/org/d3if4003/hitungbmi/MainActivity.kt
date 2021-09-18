@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         //setContentView(R.layout.activity_main)
 
         var binding = ActivityMainBinding.inflate(layoutInflater)
-        setContentView(binding.root)
+        setContentView(binding.root)    
 
 
 
